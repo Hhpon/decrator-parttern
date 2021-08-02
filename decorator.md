@@ -120,7 +120,7 @@ plane.fire();
  */
 ```
 
-![shape-inhert-one.png](shape-inherit-one.png)
+![shape-inherit-one.png](shape-inherit-one.png)
 
 ```js
 /**
@@ -135,7 +135,7 @@ plane.fire();
  */
 ```
 
-![shape-inhert.png](shape-inherit.png)
+![shape-inherit.png](shape-inherit.png)
 
 ###### 装饰器实现
 
